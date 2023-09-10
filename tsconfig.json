@@ -2,7 +2,7 @@
 	"compilerOptions": {
 		"forceConsistentCasingInFileNames": true,
 		"target": "es2019",
-		"module": "commonjs",
+		"module": "CommonJS",
 		"moduleResolution": "node",
 		"newLine": "lf",
 		"importHelpers": true,
